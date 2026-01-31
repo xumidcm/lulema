@@ -36,13 +36,13 @@ jobs:
       - name: Make Gradle executable
         run: chmod +x ./gradlew
 
-      # 构建 Release 包（APK）
-      - name: Build Release APK
-        run: ./gradlew assembleRelease
+      # 构建 Debug 包（无需签名，快速验证）
+      - name: Build Debug APK
+        run: ./gradlew assembleDebug
 
-      # 上传构建好的 APK 作为产物
-      - name: Upload APK
+      # 上传构建好的 Debug APK
+      - name: Upload Debug APK
         uses: actions/upload-artifact@v4
         with:
-          name: app-release
-          path: app/build/outputs/apk/release
+          name: app-debug
+          path: app/build/outputs/apk/debug
