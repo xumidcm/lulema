@@ -1,7 +1,12 @@
-*![Cache_-69a4f30b164b069a](https://github.com/user-attachments/assets/330c6617-9bca-4f16-b3b0-2d368eaf5ed1)=400x
+
 *⚠️警告：在本项目中，你将看到大量质量低下，AI生成的代码，高血压患者慎入（bushi）**
 
 ~~以下内容由豆包AI总结生成~~
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/330c6617-9bca-4f16-b3b0-2d368eaf5ed1" width="200" alt="Cache_-69a4f30b164b069a">
+</p>
 
 
 # 🚀 撸了吗 - 记撸助手
@@ -55,7 +60,18 @@
 本项目为本地轻量化APP，核心技术栈基于 Android 原生开发，数据存储采用本地数据库，无第三方依赖（除基础UI组件外）。
 
 # 应用截图
-![Screenshot_2026-01-31-17-18-03-244_com example my](https://github.com/user-attachments/assets/b90eb5fd-6ad1-4017-9182-7fc645640d57)
-![Screenshot_2026-01-31-17-18-09-488_com example my](https://github.com/user-attachments/assets/1cefa014-1d7b-4669-ade9-451ac4cc772e)
-![Screenshot_2026-01-31-17-18-07-295_com example my](https://github.com/user-attachments/assets/333e0966-51cb-4350-9fc7-19b1437caf9c)
-![Screenshot_2026-01-31-17-18-05-442_com example my](https://github.com/user-attachments/assets/81ba5adc-135e-4a30-a505-4561f60e309a)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b90eb5fd-6ad1-4017-9182-7fc645640d57" width="400" alt="Screenshot_2026-01-31-17-18-03-244_com example my">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1cefa014-1d7b-4669-ade9-451ac4cc772e" width="400" alt="Screenshot_2026-01-31-17-18-09-488_com example my">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/333e0966-51cb-4350-9fc7-19b1437caf9c" width="400" alt="Screenshot_2026-01-31-17-18-07-295_com example my">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/81ba5adc-135e-4a30-a505-4561f60e309a" width="400" alt="Screenshot_2026-01-31-17-18-05-442_com example my">
+</p>
