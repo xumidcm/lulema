@@ -1,4 +1,5 @@
-**⚠️警告：在本项目中，你将看到大量质量低下，AI生成的代码，高血压患者慎入（bushi）**
+*![Cache_-69a4f30b164b069a](https://github.com/user-attachments/assets/330c6617-9bca-4f16-b3b0-2d368eaf5ed1)
+*⚠️警告：在本项目中，你将看到大量质量低下，AI生成的代码，高血压患者慎入（bushi）**
 
 ~~以下内容由豆包AI总结生成~~
 
